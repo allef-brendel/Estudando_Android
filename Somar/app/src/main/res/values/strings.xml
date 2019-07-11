@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Somar</string>
+    <string name="somar">Somar</string>
+    <string name="numero_2">numero 2</string>
+    <string name="numero_1">numero 1</string>
+    <string name="digite_o_numero">Digite o numero</string>
+</resources>

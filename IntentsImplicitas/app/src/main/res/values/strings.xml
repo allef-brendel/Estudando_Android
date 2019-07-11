@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IntentsImplicitas</string>
+
+    <string name="erro_intent">Ação não suportada.</string>
+
+    <string-array name="acoes">
+
+        <item>Browser</item>
+        <item>Realizando uma chamada</item>
+        <item>Mapa</item>
+        <item>Tocar</item>
+        <item>SMS</item>
+        <item>Compartilhar</item>
+        <item>Alarme</item>
+        <item>Buscar na web</item>
+        <item>Configuração</item>
+        <item>Sair</item>
+
+    </string-array>
+</resources>

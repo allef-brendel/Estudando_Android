@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DadosEntreActivitys</string>
+    <string name="digite_o_email">Digite o email</string>
+    <string name="digite_o_nome">Digite o nome</string>
+    <string name="enviar_tela1">Enviar Tela1</string>
+    <string name="enviar_tela2">Enviar Tela2</string>
+    <string name="rejeitar_dados">Rejeitar Dados</string>
+    <string name="obter_dados">Obter Dados</string>
+    <string name="email">email</string>
+    <string name="nome">nome</string>
+</resources>
